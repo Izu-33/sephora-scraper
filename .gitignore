@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+.sephora-scraper-env/
+
+# Secrets / env files
+.env
+*.env
